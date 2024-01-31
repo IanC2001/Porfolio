@@ -420,8 +420,9 @@ li , a{
     margin: 0px auto;
     width: 1400px;
     height: 500px;
-    box-shadow: 1px 1px 1px 1px #bdbdbd;
-    background-color: #ccc;
+    box-shadow: 0 10px 15px 10px rgba(0,0,0,.1), 0 4px 6px -4px rgba(0,0,0,.1);
+    background-color: #fff;
+    border-radius: 2rem;
 }
 
 .img-flex{
